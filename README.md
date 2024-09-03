@@ -1,4 +1,4 @@
-# Quasar App (front-medico-oficial)
+# Quasar App (medic-frontend)
 
  front end medico proyecto
 
