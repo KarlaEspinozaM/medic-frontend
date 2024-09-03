@@ -1,7 +1,5 @@
 # Quasar App (medic-frontend)
-<!-- Trabaje sola en este código en mi mismo ordenador, así que por esa razón no hay tantos commits. Solo lo subí directamente al terminarlo -->
-
- front end medico proyecto
+ Trabaje sola en este código en mi mismo ordenador, así que por esa razón no hay tantos commits. Solo lo subí directamente al terminarlo 
 
 ## Install the dependencies
 ```bash
